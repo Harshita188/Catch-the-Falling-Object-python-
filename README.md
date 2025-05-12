@@ -30,3 +30,8 @@ Install Pygame:
 
 ```bash
 pip install pygame
+
+##🙌 Credits
+Developed by Harshita (@Harshita188)
+
+Built with Python + Pygame
